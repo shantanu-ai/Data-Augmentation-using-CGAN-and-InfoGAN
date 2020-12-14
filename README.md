@@ -12,7 +12,8 @@ Then, execute the command:
 python3 convNet_manager.py
 ```
 
-
+## Report
+Please visit [here](https://github.com/Shantanu48114860/Data-Augmentation-using-CGAN-and-InfoGAN/blob/master/Report/DL_Final%20Report.pdf)
 
 ## Directory Structure
 
